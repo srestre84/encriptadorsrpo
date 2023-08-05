@@ -1,13 +1,10 @@
-# Challenge ONE | Lógica de Programación - Encriptador de texto
+# Challenge ONE | Lógica de Programación - Encriptador de texto -Srestre84
 
 
 
 ### ¡Bienvenido al repositorio del Encriptador de texto! Pasos principales:
 
 #### Marca este proyecto con una estrella ⭐
-#### Sigue las lecciones y las instrucciones de contenido 📚
-#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/challenge-one-logica) 📃
----
 
 ## ¿Cómo descargar el repositorio?
 ---
